@@ -76,5 +76,10 @@ Using K-Means clustering on average PnL, win rate, position size, and trade coun
 
 ---
 
+## Results at a Glance
+- Fear markets: higher positional buys and paradoxically high profits
+- Greed markets: greatest profitability overall
+- Losers increase risk during fear, winners during greed
+
 ## 📬 Contact
 For questions or collaboration, feel free to reach out.
